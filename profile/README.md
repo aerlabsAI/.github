@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-AerLabs: Decoding How AI Works
+AER: Accelerate Efficient Research | AI Engineering & Research
 </h3>
 
 <p align="center">
@@ -40,7 +40,7 @@ A high-throughput, full-stack open AI research lab optimizing the critical bottl
 ---
 
 ## 📖 About
-**AerLabs** is an open AI research lab focused on advancing AI systems across the full stack. Our vision is not just to optimize AI systems, but to remove the critical bottlenecks that prevent widespread adoption.
+**AER Labs** is an open AI research lab focused on advancing AI systems across the full stack. Our vision is not just to optimize AI systems, but to remove the critical bottlenecks that prevent widespread adoption.
 
 We work on:
 -   **GPU Orchestration:** Efficient resource management for distributed GPU workloads.
@@ -51,7 +51,7 @@ We work on:
 
 ## 🔑 Key Features
 
-AerLabs drives research in critical infrastructure areas:
+AER Labs drives research in critical infrastructure areas:
 
 -   **State-of-the-art Inference Optimization**
     -   High-throughput serving infrastructure.
@@ -65,33 +65,6 @@ AerLabs drives research in critical infrastructure areas:
 -   **Flexible Research Frameworks**
     -   **Deep Learning:** Novel architectures and training techniques.
     -   **Benchmarking:** Comprehensive comparison of serving frameworks (vLLM, SGLang, TGI).
-
----
-
-## 🌍 Community & Partners
-
-Our researchers and contributors come from leading companies and universities worldwide.
-
-### Industry Partners
-<div align="center">
-  <img src="https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat&logo=samsung&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SK_Group-DB0025?style=flat"/>
-  <img src="https://img.shields.io/badge/LG_Group-A50034?style=flat&logo=lg&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hyundai-002C5F?style=flat&logo=hyundai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trillion_Labs-000000?style=flat"/>
-</div>
-
-### Academic Partners
-<div align="center">
-  <img src="https://img.shields.io/badge/MIT-A31F34?style=flat"/>
-  <img src="https://img.shields.io/badge/KAIST-004191?style=flat"/>
-  <img src="https://img.shields.io/badge/SNU-0F0F0F?style=flat"/>
-  <img src="https://img.shields.io/badge/Yonsei-00205B?style=flat"/>
-  <img src="https://img.shields.io/badge/Korea_Univ-8A0000?style=flat"/>
-  <img src="https://img.shields.io/badge/IIT_Kanpur-E31837?style=flat"/>
-</div>
 
 ---
 
