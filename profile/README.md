@@ -1,9 +1,3 @@
-<p align="center">
-  <picture>
-    <img alt="AerLabs" src="https://raw.githubusercontent.com/aerlabsAI/.github/main/profile/assets/logo.svg" width="300">
-  </picture>
-</p>
-
 <h3 align="center">
 AER: Accelerate Efficient Research | AI Engineering & Research
 </h3>
