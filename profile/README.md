@@ -28,7 +28,6 @@ A high-throughput, full-stack open AI research lab optimizing the critical bottl
 
 ## ⚡ Latest News
 
--   **[2025/12]** 🚀 We released a **PyTorch native INT8 quantization API** for TorchAO, enabling INT8 inference with up to **4× memory reduction**. [Read the report](https://aerlabs.tech/research/int8tensor-torchao.html).
 -   **[2025/12]** 🌐 We welcomed our **First Batch** of remote researchers working on open-source AI infrastructure.
 
 ---
@@ -49,8 +48,6 @@ AER Labs drives research in critical infrastructure areas:
 
 -   **State-of-the-art Inference Optimization**
     -   High-throughput serving infrastructure.
-    -   Custom CUDA/Triton kernels for quantization.
-    -   Support for dynamic activation quantization (INT8×INT8).
 
 -   **Production-Grade Generative AI**
     -   **LLM Serving:** Optimized serving for large language models and multimodal systems.
